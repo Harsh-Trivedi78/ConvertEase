@@ -2,8 +2,7 @@
 
 **Effortlessly convert currencies and stay updated on the latest exchange rates with ConvertEase, the intuitive and feature-rich currency converter app.**
 
-[![Screenshot of ConvertEase App](insert_screenshot_link_here.png)](![Uploading image.png…]()
-)  *(Replace with a screenshot or GIF of your app)*
+![Screenshot 2025-02-18 203245](https://github.com/user-attachments/assets/c148cab7-50f8-448d-a50b-b8253b507e13)
 
 ## 🚀 Key Features
 
