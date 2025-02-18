@@ -20,9 +20,3 @@ ConvertEase is built with cutting-edge technologies to provide a seamless and pe
 * **Frontend:** HTML, CSS (Tailwind CSS)
 * **API:** ExchangeRate-API
 * **JavaScript:**  Vanilla JavaScript for dynamic functionality
-
-## 💻 Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/ConvertEase.git](https://www.google.com/search?q=https://github.com/your-username/ConvertEase.git)  *(Replace with your repository URL)*
